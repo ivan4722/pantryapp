@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mui/material": "^5.0.0",
     "firebase": "^10.12.5",
     "formidable": "^1.2.2",
     "next": "14.2.5",
